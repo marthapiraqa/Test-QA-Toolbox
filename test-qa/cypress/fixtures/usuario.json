@@ -1,0 +1,15 @@
+{
+  "nombre": "Martha QA",
+  "email": "martha.qa.test10@example.com",
+  "password": "QaTest12345!",
+  "dia": "10",
+  "mes": "5",
+  "anio": "1990",
+  "empresa": "QA Testing",
+  "direccion": "Calle 123",
+  "pais": "Canada",
+  "estado": "Ontario",
+  "ciudad": "Toronto",
+  "codigoPostal": "M5V1A1",
+  "telefono": "3001234567"
+}
