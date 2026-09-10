@@ -1,9 +1,9 @@
-Instrucciones para ejecutar los tests.
+# Instrucciones para ejecutar los tests.
 1. Clonar el repositorio
-  - Abrir un terminar y ejecutar
-  git clone repositior
-  - Ingresar al proyecto
-  cd test-qa
+  - Abrir un terminar y ejecutar:
+  git clone [repositior](https://github.com/marthapiraqa/Test-QA-Toolbox.git)
+  - Ingresar al proyecto:
+  cd Test-QA-Toolbox
 
 2. Instalar dependencias
   - Instalar las dependencias
