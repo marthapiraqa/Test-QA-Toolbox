@@ -16,7 +16,8 @@
     Selecciona el navegador que prefieras
     para ejecutar el archivo especifico: npx cypress run --spec "cypress/e2e/test-Toolbox.cy.js"
 
-Descripción de los tests implementados: En el archivo Test-Toolbox hay 5 tests 
+# Descripción de los tests implementados
+En el archivo Test-Toolbox hay 5 tests 
 
 1. Parte 1 - Registro de usuario: Se realiza la creación de usuarios nuevos
 2. Parte 1 - Inicio de sesión de usuario: se realizan 5 validaciones para la pagina de login 
